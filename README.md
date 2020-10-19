@@ -15,7 +15,7 @@
 [![SukeeratSG's github stats](https://github-readme-stats.vercel.app/api?username=SukeeratSG&count_private=true&show_icons=true&theme=dracula)](https://github.com/SukeeratSG/github-readme-stats)</h3>
 
 I am neither especially clever nor especially gifted. I am only very, very curious.<br/>
-  - Albert Einstein <br/>
-	- Michael Scott <br/>
-		- Sukeerat Goindi<br/>
+  -- Albert Einstein <br/>
+	-- Michael Scott <br/>
+		-- Sukeerat Goindi<br/>
 		
