@@ -2,7 +2,7 @@
 <h3>About me</h3>
 
 - 🏠 I am from Delhi,India
-- 🏢 I am a guy who runs a buisness named SPS [Mail for enquiries](custcare@goindi.org)
+- 🏢 I am a guy who runs a business named SPS [Mail for enquiries](custcare@goindi.org)
 - 👯 I’m always looking to collaborate if the project is fun
 - 🌱 I am currently learning C/C++ and ML
 - 🤝 I am looking for help with R and statistics
@@ -15,7 +15,7 @@
 [![SukeeratSG's github stats](https://github-readme-stats.vercel.app/api?username=SukeeratSG&count_private=true&show_icons=true&theme=dracula)](https://github.com/SukeeratSG/github-readme-stats)</h3>
 
 I am neither especially clever nor especially gifted. I am only very, very curious.<br/>
-  -- Albert Einstein <br/>
-	-- Michael Scott <br/>
-		-- Sukeerat Goindi<br/>
+  - Albert Einstein <br/>
+	- Michael Scott <br/>
+		- Sukeerat Goindi<br/>
 		
